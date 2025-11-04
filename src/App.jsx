@@ -310,7 +310,7 @@ function DayCell({ date, inMonth, events, onOpenDay, query }) {
     >
       <div className="mb-1 flex items-center justify-between">
         <div
-          className={`h-7 w-7 select-none rounded-full text-center text-xs leading-7 ${
+          className={`h-7 w-7 select-none rounded-full text-center text-s leading-7 font-semibold ${
             isToday(date) ? "bg-brand text-white" : ""
           }`}
         >
@@ -558,12 +558,9 @@ export default function App() {
 
   return (
     <div className="mx-auto max-w-7xl p-4">
-      <div className="text-center py-6">
       <h1 className="text-4xl font-extrabold text-gray-800 tracking-tight">
         📅 Calendar
       </h1>
-      <div className="mx-auto mt-2 h-1 w-24 bg-blue-500 rounded-full"></div>
-    </div>
       <div className="flex gap-6">
         
         <div className="flex-1">
