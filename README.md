@@ -1,4 +1,4 @@
-# 📅 Calendar App
+# 📅 Calendar
 
 A simple and interactive **calendar web app** built using **Vite + React**.  
 It displays the current month and year, allows users to navigate between months, and shows events loaded from a static JSON file.
