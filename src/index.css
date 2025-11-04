@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	body {
+		@apply text-gray-900;
+	}
+}
+
+@layer components {
+	.btn {
+		@apply inline-flex items-center gap-2 rounded-md border border-gray-300 bg-white px-3 py-1.5 text-sm shadow-sm hover:bg-gray-50 active:bg-gray-100; 
+	}
+	.btn-primary {
+		@apply border-brand bg-brand text-white hover:bg-blue-600 active:bg-blue-700;
+	}
+}
+

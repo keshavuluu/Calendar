@@ -1,0 +1,5 @@
+[{ "id": "e1", "date": "2025-12-24", "startTime": "09:00", "endTime": "10:30", "title": "Christmas Eve Brunch", "color": "#16a34a" },
+	{ "id": "e2", "date": "2025-12-25", "startTime": "10:00", "endTime": "12:00", "title": "Christmas", "color": "#16a34a" },
+	{ "id": "e3", "date": "2025-12-31", "startTime": "18:00", "endTime": "23:00", "title": "New Year's Eve Party", "color": "#2563eb" },
+	{ "id": "e4", "date": "2025-12-24", "startTime": "10:00", "endTime": "11:00", "title": "Gift Exchange", "color": "#f59e0b" },
+	{ "id": "e5", "date": "2025-12-24", "startTime": "10:15", "endTime": "10:45", "title": "Quick Catch-up", "color": "#ef4444" }]
