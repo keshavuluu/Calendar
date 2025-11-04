@@ -1,5 +1,21 @@
-[{ "id": "e1", "date": "2025-12-24", "startTime": "09:00", "endTime": "10:30", "title": "Christmas Eve Brunch", "color": "#16a34a" },
-	{ "id": "e2", "date": "2025-12-25", "startTime": "10:00", "endTime": "12:00", "title": "Christmas", "color": "#16a34a" },
-	{ "id": "e3", "date": "2025-12-31", "startTime": "18:00", "endTime": "23:00", "title": "New Year's Eve Party", "color": "#2563eb" },
-	{ "id": "e4", "date": "2025-12-24", "startTime": "10:00", "endTime": "11:00", "title": "Gift Exchange", "color": "#f59e0b" },
-	{ "id": "e5", "date": "2025-12-24", "startTime": "10:15", "endTime": "10:45", "title": "Quick Catch-up", "color": "#ef4444" }]
+[
+  { "id": "e1", "date": "2025-12-24", "startTime": "09:00", "endTime": "10:30", "title": "Christmas Eve Brunch", "color": "#16a34a" },
+  { "id": "e2", "date": "2025-12-25", "startTime": "10:00", "endTime": "12:00", "title": "Christmas", "color": "#16a34a" },
+  { "id": "e3", "date": "2025-12-31", "startTime": "18:00", "endTime": "23:00", "title": "New Year's Eve Party", "color": "#2563eb" },
+  { "id": "e4", "date": "2025-12-24", "startTime": "10:00", "endTime": "11:00", "title": "Gift Exchange", "color": "#f59e0b" },
+  { "id": "e5", "date": "2025-12-24", "startTime": "10:15", "endTime": "10:45", "title": "Quick Catch-up", "color": "#ef4444" },
+
+  { "id": "e6", "date": "2025-11-10", "startTime": "08:30", "endTime": "09:30", "title": "Team Standup Meeting", "color": "#8b5cf6" },
+  { "id": "e7", "date": "2025-11-12", "startTime": "14:00", "endTime": "16:00", "title": "Project Review Session", "color": "#10b981" },
+  { "id": "e8", "date": "2025-11-15", "startTime": "11:00", "endTime": "12:30", "title": "Client Demo", "color": "#f43f5e" },
+  { "id": "e9", "date": "2025-11-18", "startTime": "17:30", "endTime": "19:00", "title": "Dinner with Friends", "color": "#3b82f6" },
+  { "id": "e10", "date": "2025-11-22", "startTime": "09:00", "endTime": "10:00", "title": "Weekend Jog", "color": "#eab308" },
+  { "id": "e11", "date": "2025-11-25", "startTime": "13:00", "endTime": "14:00", "title": "Doctor Appointment", "color": "#22d3ee" },
+  { "id": "e12", "date": "2025-11-28", "startTime": "18:00", "endTime": "22:00", "title": "Movie Night", "color": "#9333ea" },
+
+  { "id": "e13", "date": "2025-11-20", "startTime": "08:00", "endTime": "09:00", "title": "Morning Workout", "color": "#f97316" },
+  { "id": "e14", "date": "2025-11-20", "startTime": "10:00", "endTime": "11:30", "title": "Team Sync-Up", "color": "#14b8a6" },
+  { "id": "e15", "date": "2025-11-20", "startTime": "13:00", "endTime": "14:00", "title": "Lunch with Mentor", "color": "#a855f7" },
+  { "id": "e16", "date": "2025-11-20", "startTime": "15:30", "endTime": "17:00", "title": "Code Review Session", "color": "#dc2626" },
+  { "id": "e17", "date": "2025-11-20", "startTime": "19:00", "endTime": "21:00", "title": "Gaming Night", "color": "#0ea5e9" }
+]
